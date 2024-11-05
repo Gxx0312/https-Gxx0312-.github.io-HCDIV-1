@@ -1,0 +1,21 @@
+Example 1: Pie Chart - Customer Satisfaction Distribution
+
+Suppose we have data showing customer satisfaction levels for a product, divided into five categories: “Very Satisfied,” “Satisfied,” “Neutral,” “Dissatisfied,” and “Very Dissatisfied.” A pie chart is used to show the proportion of each category.
+
+Critical Analysis:
+
+	1.	Data Issue: Pie charts are not ideal for showing proportions when there are five or more categories. Small differences in segment size can be difficult to distinguish, especially for categories with lower percentages, making it visually confusing.
+	2.	Convention Issue: Pie charts are commonly used to represent “parts of a whole,” but customer satisfaction levels are categorical data and may not be best represented by this format. In some cultural contexts, people are more accustomed to horizontal bar charts for such data.
+	3.	Improvement Suggestion: Replace the pie chart with a stacked bar chart or a horizontal bar chart, which more clearly displays differences between satisfaction levels. With a bar chart, the length directly represents the quantity or percentage, making it easier to observe and compare the proportions of each category.
+
+Example 2: Line Chart - Annual Sales Trend
+
+Suppose a company wants to display its annual sales over five years with a line chart, showing the changes in sales each year.
+
+Critical Analysis:
+
+	1.	Data Issue: If annual sales do not fluctuate significantly, the points on the line chart might appear flat, which fails to highlight minor sales variations and may lead viewers to think there is little change in sales.
+	2.	Convention Issue: Line charts are typically used for continuous data, like time series, but in some cases, a bar or area chart may better illustrate cumulative changes. Additionally, without grid lines or annotations, viewers might misinterpret the degree of sales variation.
+	3.	Improvement Suggestion: Use an area chart instead of a line chart, as the filled color can emphasize year-over-year differences in sales. Adding grid lines, annotating sales values, or labeling the year-over-year growth rate would also help viewers understand the sales trend more intuitively.
+
+These improvements make the data representation clearer and help avoid misinterpretations due to convention or cultural differences.
